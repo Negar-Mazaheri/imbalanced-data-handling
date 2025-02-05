@@ -1,1 +1,1 @@
-# mbalanced-data-handling
+# imbalanced-data-handling
